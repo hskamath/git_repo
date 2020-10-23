@@ -8,3 +8,26 @@ git add
 git commit -m ""
 git log
 git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  PvtBranch1-------------------------------
+                  |                                        |
+                  |                                        |
+                  |                                        |
+----------------Master------------Release-----------Master-------------------------------Release-----------Master-----------
+                  |                                                                  |
+                  |                                                                  |Pull and then merge
+                  |                                                                  |
+                   PvtBranch2--------------------------------------------------------
