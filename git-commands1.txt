@@ -17,3 +17,13 @@ Scenario3:
 
 Refer notes for description
 
+
+                  PvtBranch1-------------------------------
+                  |                                        |
+                  |                                        |
+                  |                                        |
+----------------Master------------Release-----------Master-------------------------------Release-----------Master-----------
+                  |                                                                  |
+                  |                                                                  |Pull and then merge
+                  |                                                                  |
+                   PvtBranch2--------------------------------------------------------
