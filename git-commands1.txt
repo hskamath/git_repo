@@ -8,18 +8,14 @@ git add
 git commit -m ""
 git log
 git diff <filename>
+----------------------------------------------------------
+Scenario1:
 
+Scenario2:
 
+Scenario3:
 
-
-
-
-
-
-
-
-
-
+Refer notes for description
 
 
                   PvtBranch1-------------------------------
